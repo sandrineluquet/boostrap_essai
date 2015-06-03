@@ -1,0 +1,37 @@
+.row {
+    margin-bottom: 15px;
+}
+
+.row [class^="col-"] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #eee;
+    border: 1px solid #ddd;
+    background-color: rgba(86,61,124,.15);
+    border: 1px solid rgba(86,61,124,.2);
+}
+h4{
+	margin-left: 10%;
+}
+.p1{
+	margin-left: 25%;
+}
+.largeur{
+	text-align: center;
+	text-decoration: underline;
+	border-radius: 2px;
+	color: blue;
+	margin-top: 2%;
+	w
+}
+body{
+	width: 100%
+}
+.taille{
+	font-style: oblique;
+	margin-left: 12%;
+	margin-top: 2%;
+}
+.boutons{
+	margin-left: 8%;
+}
